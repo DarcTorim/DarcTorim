@@ -1,18 +1,28 @@
-### Hi there 👋
+###
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="500"/>
+</div>
+<div id="text" align="center">
+  <h1> :wink: Hi, my name is Artyom. I am a novice Web developer </h1>
+  <p> This is where I post my work :face_with_spiral_eyes: </p>
+</div>
 
-<!--
-**DarcTorim/DarcTorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-<iframe src="https://giphy.com/embed/11c7UUfN4eoHF6" width="480" height="451" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cats-spin-cat-gif-11c7UUfN4eoHF6">via GIPHY</a></p>
+ <div align="center">
+  <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" height="300"/>
+</div>
+:woman_technologist: About Me :
 
-Here are some ideas to get you started:
+I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Russia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Practicing layout and frontend development.
+- Learning to write code for web sites.
+- In my free time, I train and improve my knowledge.
+
+---
+
+
+
+
+
