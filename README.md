@@ -55,7 +55,6 @@ I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
   
 ---
-🕶️:Contact email:
-  
-  - korobchenko.artjom@yandex.ru
+🕶️ Contact email -
+korobchenko.artjom@yandex.ru
   
