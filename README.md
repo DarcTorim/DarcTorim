@@ -24,7 +24,7 @@ I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-:exploding_head:Certificates:
+:atom::exploding_head:Certificates:
 <div align="center">
   
   ![Screenshot_1](https://user-images.githubusercontent.com/124584927/221443728-a8046d2a-52fa-42f3-ad7b-7f0bc2f226c9.png)
@@ -49,6 +49,5 @@ I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarcTorim&theme=dark&hide_border=&locale=ru)](https://git.io/streak-stats)
   
-  ---
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcTorim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
