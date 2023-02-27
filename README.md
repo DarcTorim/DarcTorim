@@ -41,10 +41,10 @@
 <div align="center">
   
   ![Screenshot_1](https://user-images.githubusercontent.com/124584927/221443728-a8046d2a-52fa-42f3-ad7b-7f0bc2f226c9.png)
-  ---
+  
   
   ![Screenshot_2](https://user-images.githubusercontent.com/124584927/221443738-06353f8b-e9be-44db-8d7e-9ec2729089c4.png)
-  ---
+  
 </div>
 
   
