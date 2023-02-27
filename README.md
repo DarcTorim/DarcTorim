@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=DarcTorim&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 <div align="center">
 :hammer_and_wrench: Languages and Tools :
   
@@ -17,6 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
