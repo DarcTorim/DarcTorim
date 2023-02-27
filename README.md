@@ -3,7 +3,8 @@
 </div>
 <div id="text" align="center">
   <h1> :wink: Hi, my name is Artyom. I am a novice Web developer </h1>
-  <p> This is where I post my work :face_with_spiral_eyes: </p>
+  <p> This is where I post my work :face_with_spiral_eyes:</p>
+  <p> 🕶️ Contact email - korobchenko.artjom@yandex.ru</p>
   <img src="https://komarev.com/ghpvc/?username=DarcTorim&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -65,5 +66,7 @@
   
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github вклад сетка змея анимация" style="max-width: 100%;">
   
-  🕶️ Contact email -
-korobchenko.artjom@yandex.ru
+  ---
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=DarcTorim)](https://github.com/ryo-ma/github-profile-trophy)
+  
