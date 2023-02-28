@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/62199a961a26c9c93743e991b9955c7f84ad31ca/icons/python/python-original-wordmark.svg" class="deleted asset" style="width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" height="40" width="40">
   </div>
   
 
