@@ -68,7 +68,6 @@
   
 ---
   
-<img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github вклад сетка змея анимация" style="max-width: 100%;">
   
   
   
