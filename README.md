@@ -34,11 +34,11 @@
     
   - I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Russia.
   
-  - Practicing layout and frontend development.
+  - I'm rolling in software testing and customisation.
   
-  - Learning to write code for web sites.
+  - Studying network protocols.
   
-  - In my free time, I train and improve my knowledge.
+  - Study of Frontend and Backend parts.
   </div>
 
 ---
