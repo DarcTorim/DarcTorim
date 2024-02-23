@@ -32,7 +32,7 @@
   <h1>:man_technologist: About Me :</h1>
   <div align="left">
     
-  - I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Russia.
+  - I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Russia.
   
   - Practicing layout and frontend development.
   
