@@ -2,7 +2,7 @@
 <div id="header" align="center">
 </div>
 <div id="text" align="center">
-  <h1> :wink: Hi, my name is Artyom. I am a QA engineer </h1>
+  <h1> :wink: Hi, my name is Artyom. I am a Devops engineer </h1>
   <p> This is where I post my work :face_with_spiral_eyes:</p>
   <p> 🕶️ Contact email - korobchenko.artjom@yandex.ru</p>
   <img src="https://komarev.com/ghpvc/?username=DarcTorim&style=flat-square&color=blue" alt=""/>
