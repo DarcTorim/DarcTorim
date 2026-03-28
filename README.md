@@ -39,6 +39,8 @@
   - Studying network protocols.
   
   - Study of Frontend and Backend parts.
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?DarcTorim&hide_title=true&hide_border=true&layout=compact)
   </div>
   
   
