@@ -40,7 +40,14 @@
   
   - Study of Frontend and Backend parts.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcTorim&layout=compact)
+<!-- С темной темой -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcTorim&theme=dark&layout=compact)
+
+<!-- С размером карточки -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcTorim&layout=compact&hide_border=true)
+
+<!-- Скрыть определенные языки -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcTorim&layout=compact&hide=html,css)
   </div>
   
   
