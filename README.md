@@ -41,7 +41,6 @@
   - Study of Frontend and Backend parts.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,git)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcTorim&layout=compact&theme=radical)
   </div>
   
   
